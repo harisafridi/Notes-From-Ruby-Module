@@ -12,7 +12,7 @@ puts 'Type in your first number'
 STDOUT.flush
 fnumber = gets.chomp.to_i
 
-
+	
 puts 'Type in your second number'
 STDOUT.flush
 snumber = gets.chomp.to_i
