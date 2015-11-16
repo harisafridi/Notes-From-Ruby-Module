@@ -1,0 +1,32 @@
+IRB and Pry to execute Ruby Ccommands
+Explain the advantages
+use variables, basic data type, conditionals, and case statements
+Use basic operators in ruby
+Use Array, Hashes and iterators
+write simple methods in Ruby
+
+gem list
+gem update --system   //update the actual gem installations files
+gem update //all the gems on our system	
+gem update json //specific gem update
+rspec
+bundler
+minitest
+ruby ./hello.rb 	//current directory and run ruby file
+
+WHY RUBY
+- JBehave slightly different
+- Cucumber
+- Good language to learn programming
+- Object Oriented
+- Its pure OO language
+- It's Dynamic - while executing 
+- It's interpreted - compiled line by line, binary at the end is faster, enables dynamism
+- It has a nice syntax
+- Ruby is derived from PEARL, Python
+- Its easier to learn
+- ISO Standard - 30170:2012
+- DRY - don't repeat yourself
+- Dynamic typing 
+
+# ruby-doc.org     ///documentation on ruby if needing help
