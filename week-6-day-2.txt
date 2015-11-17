@@ -19,3 +19,25 @@ What is OOP?
 -Inheritance
 -Polymorphism
 
+Class Fixnum
+
+def + (x)
+	"You dont don't rea"
+end
+end
+
+Class String
+ def to_s
+	"This is a string"
+end
+end
+
+
+
+Person.new(0.3).methods - Object.new.methods
+
+Baby.new(0.2).methods - Person.new(0.3).methods
+
+
+symlink windows
+

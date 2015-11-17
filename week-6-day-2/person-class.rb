@@ -1,13 +1,13 @@
 
 class Person
-  attr_accessor :hair_color, :top_color #creates both setter and getters
+  attr_accessor   :hair_color, :top_color #creates both setter and getters
   attr_reader :height
   # Initialize instance variables
-	def initialize(height, hair='ginger', top)
+  def initialize(height, hair='ginger', top)
     @hair_color = hair
     @height = height
     @top_color = top
-	end
+  end
 
  # Instance methods
 
