@@ -19,8 +19,9 @@ puts 'Wow, you can use a computer' if ageyear < 5 || ageyear > 70
   if ageyear <16
   	puts 'Have you asked for permission'
   	response = gets.chomp
-    binding.pry
+    
   	if response == 'No'
+      binding.pry
       permission = false
   		puts 'You need permission'
     end
