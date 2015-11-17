@@ -1,0 +1,21 @@
+Object Oriented Ruby
+
+- Explain OOP
+- Write a class containing getters, setter, and instance variables
+- Write a class which inherits from another
+- Explain public, private and global
+
+What is OOP?
+- Object = state  + behaviour
+- State is defined by variables
+- Behavious is described by methods
+- Every object will have its behaviour
+
+- --  - - Object --- 
+  -Property --- - Method
+
+-Encapsulation: Means we are going to store the details of state of an 
+		object as variables, we can only access them via methods - setter and getter
+-Inheritance
+-Polymorphism
+
