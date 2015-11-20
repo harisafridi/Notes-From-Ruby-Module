@@ -1,0 +1,13 @@
+Bundler - dependencies
+
+- alows you to use dependencies properly..
+- allows you to package versions of gems and project
+- semantic versioning
+
+Rake
+- allows you to do smoke test
+- allows you to do unit test
+- allows you to run entire tests
+
+
+How do we read data 

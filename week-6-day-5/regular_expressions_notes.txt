@@ -1,0 +1,30 @@
+comparing strings together
+comapiring step definitions together
+gerkin given this when that
+execute 
+better you are at regular expressuion better at
+
+use regular expressions to match against strings
+
+name.match(/^[\da-z]+\d$/);
+//name is variable
+//mtach is method called
+
+
+
+/ opens and closes the expression
+
+^from the beginning
+
+[ a set of chars containing
+
+\d : any digit
+
+a - the letter a
+- through
+z - the letter z
+
+] and less
+
++ one or more
+])
